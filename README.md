@@ -23,5 +23,5 @@
 
 -Step 3: How to run it
 
-    Get onto bandit.rip and logout of their account - if the password hass been saves on the users device it will work.
-    Access the browser console by pressing (cnrtl + shift + i), copying the updated code, pasting it into the console, and running it.
+    Get onto bandit.rip and logout of the victims account - if the password has been saved on the users device it will work.
+    Access the browser console by pressing (cnrtl + shift + i), copying the updated code (cntrl + c), pasting it into the console (cntrl + v), and running it by pressing the enter key.
