@@ -1,4 +1,5 @@
 # bandit.rip-PASSWORD-STEALER
+![image](https://github.com/Gynoids/bandit.rip-PASSWORD-STEALER/assets/121044930/6c6cec5f-f4b3-4d0a-8a67-d8b41b4698d8)
 
 
 -Step 1: Replace the webhook link
