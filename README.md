@@ -26,3 +26,5 @@
 
     Get onto bandit.rip and logout of the victims account - if the password has been saved on the users device it will work.
     Access the browser console by pressing (cnrtl + shift + i), copying the updated code (cntrl + c), pasting it into the console (cntrl + v), and running it by pressing the enter key.
+![image](https://github.com/Gynoids/bandit.rip-PASSWORD-STEALER/assets/121044930/60afc9ed-0c3a-48ef-ab51-dfa71f043bdc)
+![image](https://github.com/Gynoids/bandit.rip-PASSWORD-STEALER/assets/121044930/db5eedc2-83a2-42ef-ab86-0e4b838db67e)
